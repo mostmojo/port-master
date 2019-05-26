@@ -9,12 +9,12 @@
   background-image: linear-gradient(to right bottom,
   rgba($color-primary-dark,.8),
   rgba($color-white,.1)),
-  url(../img/skill-2.jpeg);
+  url(../img/d-1.png);
   background-position: top;
   background-size: cover;
   text-align: center;
 
-  
+
 
   @media only screen and (max-width:$bp-smallest) {
     margin: 5rem 2rem;
@@ -31,7 +31,7 @@
     margin: 5rem 10;
   }
 
-  
+
 
   &:hover {
     transform: translateY(-1.1rem) scale(1.03);
