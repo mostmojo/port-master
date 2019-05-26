@@ -1,0 +1,20 @@
+.footer {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  &__legal {
+
+  }
+  &__logobox {
+    width: 10rem;
+
+
+    &--img {
+      margin: 1rem;
+      height: 2.5rem;
+      width: 2.5rem;
+    }
+  }
+}

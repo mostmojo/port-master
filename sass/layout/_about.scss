@@ -1,0 +1,23 @@
+.detail {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10rem;
+
+  @media only screen and (max-width:$bp-small) {
+    flex-direction: column;
+  }
+}
+
+
+.skills {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  &__items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+}
