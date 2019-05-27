@@ -82,13 +82,12 @@ body {
 
 .heading-primary {
   color: #fff;
-  text-transform: uppercase;
   backface-visibility: hidden; }
   .heading-primary--main {
     display: block;
     font-size: 5rem;
     font-weight: 400;
-    letter-spacing: 1.4rem;
+    letter-spacing: 1.1rem;
     animation: moveInDown 2s ease-out;
     margin-bottom: 1rem; }
     @media only screen and (max-width: 75em) {
