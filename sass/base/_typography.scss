@@ -26,11 +26,11 @@ body {
     }
     @media only screen and (max-width:$bp-projects) {
       font-size: 4rem;
-      letter-spacing: 1.3rem;
+      letter-spacing: 1rem;
     }
     @media only screen and (max-width:$bp-heading-technology) {
       font-size: 2.5rem;
-      letter-spacing: 1.1rem;
+      letter-spacing: 0.9rem;
     }
   }
   &--sub {
@@ -59,7 +59,7 @@ body {
 
 .heading-secondary {
   font-size: 3.5rem;
-  text-transform: uppercase;
+  // text-transform: uppercase;
   font-weight: 500;
   background-image: linear-gradient(to right,$color-secondary-about,$color-primary-about);
   // display: inline-block;
@@ -73,7 +73,7 @@ body {
 
   &:hover {
     letter-spacing:1rem;
-    text-shadow: .5rem 1rem 2rem rgba($color-black, .2);
+    text-shadow: .5rem 1rem 1rem rgba($color-black, .1625);
   }
 
   @media only screen and (max-width: $bp-largest) {
