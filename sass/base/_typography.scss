@@ -250,3 +250,16 @@ padding: 0 20rem;
     font-size: 1.6rem;
   }
 }
+
+/////////////////////////////
+// Links
+
+.log-link {
+  text-decoration: underline;
+  font-weight: 500;
+  color: $color-primary-projects;
+
+  &:hover {
+    color: rgba($color-primary-projects, 0.8);
+  }
+}

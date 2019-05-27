@@ -272,6 +272,13 @@ body {
     color: #fff;
     font-size: 1.6rem; }
 
+.log-link {
+  text-decoration: underline;
+  font-weight: 500;
+  color: #81C2C5; }
+  .log-link:hover {
+    color: rgba(129, 194, 197, 0.8); }
+
 .u-center-text {
   text-align: center; }
 
