@@ -24,8 +24,8 @@
 
   &:hover {
     transform: translateY(-1.3rem) scale(1.03);
-    box-shadow: 1rem 0.4rem 3rem 0.5rem rgba($color-black,.0625);
-    color:$color-secondary-about;
+    box-shadow: 1rem 0.4rem 3rem 0.5rem rgba($color-black,.08);
+    color:$color-black;
     background-color: $color-white;
   }
 }

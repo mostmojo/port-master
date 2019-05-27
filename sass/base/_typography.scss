@@ -73,7 +73,7 @@ body {
 
   &:hover {
     letter-spacing:1rem;
-    text-shadow: .5rem 1rem 1rem rgba($color-black, .1625);
+    text-shadow: .5rem .5rem .8rem rgba($color-black, .1625);
   }
 
   @media only screen and (max-width: $bp-largest) {
