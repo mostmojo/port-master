@@ -122,7 +122,7 @@ body {
 
 .heading-secondary {
   font-size: 3.5rem;
-  font-weight: 500;
+  font-weight: 600;
   background-image: linear-gradient(to right, #FF456B, #FB8022);
   -webkit-background-clip: text;
   color: transparent;
@@ -149,7 +149,7 @@ body {
 
 .heading-technologies {
   font-size: 3.5rem;
-  font-weight: 400;
+  font-weight: 600;
   letter-spacing: 2px;
   color: #000; }
   @media only screen and (max-width: 37.5em) {
@@ -168,7 +168,7 @@ body {
 
 .heading-education {
   font-size: 4rem;
-  font-weight: 400;
+  font-weight: 600;
   letter-spacing: 1.5rem;
   color: #fff;
   padding: 10rem;
@@ -212,8 +212,7 @@ body {
 .heading-projects {
   text-align: center;
   font-size: 4rem;
-  font-weight: 400;
-  text-transform: uppercase;
+  font-weight: 600;
   color: #fff;
   margin-bottom: 5rem; }
 

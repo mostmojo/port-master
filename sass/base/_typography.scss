@@ -60,7 +60,7 @@ body {
 .heading-secondary {
   font-size: 3.5rem;
   // text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 600;
   background-image: linear-gradient(to right,$color-secondary-about,$color-primary-about);
   // display: inline-block;
   -webkit-background-clip: text;
@@ -92,7 +92,7 @@ body {
 }
 .heading-technologies {
   font-size: 3.5rem;
-  font-weight: 400;
+  font-weight: 600;
   letter-spacing: 2px;
   // text-transform: uppercase;
   color: $color-black;
@@ -121,7 +121,7 @@ body {
 
 .heading-education {
  font-size: 4rem;
- font-weight: 400;
+ font-weight: 600;
  letter-spacing: 1.5rem;
 //  text-transform: uppercase;
  color: $color-white;
@@ -177,8 +177,8 @@ body {
 .heading-projects {
   text-align: center;
   font-size: 4rem;
-  font-weight: 400;
-  text-transform: uppercase;
+  font-weight: 600;
+  // text-transform: uppercase;
   color: $color-white;
   margin-bottom: 5rem;
 }
