@@ -15,6 +15,11 @@ body {
   box-sizing: border-box;
   font-family: 'IBM Plex Mono', monospace; }
 
+h2, h3 {
+  font-family: 'Fira Sans', sans-serif;
+  font-weight: 800;
+  letter-spacing: 2px; }
+
 @keyframes moveInDown {
   0% {
     opacity: 0;
