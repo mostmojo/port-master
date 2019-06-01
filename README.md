@@ -1,4 +1,4 @@
-**My personal site**
+[**My personal site**](https://mostmojo.github.io)
 
 • Check package.json to rebuild
 
