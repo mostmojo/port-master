@@ -436,7 +436,7 @@ body {
         height: 4.5rem; } }
     @media only screen and (max-width: 37.5em) {
       .header__logo {
-        height: 4rem; } }
+        height: 4.1rem; } }
   .header__text-box {
     margin-bottom: 20rem;
     text-align: center;
